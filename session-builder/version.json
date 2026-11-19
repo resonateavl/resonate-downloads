@@ -1,7 +1,7 @@
 {
- "version": "2.1.6",
- "date": "2026-11-18T23:26:32Z",
- "mac": "https://github.com/resonateavl/resonate-downloads/raw/main/session-builder/SessionBuilder-mac.dmg",
- "macIntel": "https://github.com/resonateavl/resonate-downloads/raw/main/session-builder/SessionBuilder-mac-intel.dmg",
- "page": "https://resonate-stagescreen.netlify.app/setup/#sessionbuilder"
+  "version": "2.1.6",
+  "date": "2026-11-18T23:26:32Z",
+  "mac": "https://github.com/resonateavl/resonate-downloads/releases/download/session-builder-v2.1.6/SessionBuilder-2.1.6-mac.dmg",
+  "macIntel": "https://github.com/resonateavl/resonate-downloads/releases/download/session-builder-v2.1.6/SessionBuilder-2.1.6-mac-intel.dmg",
+  "page": "https://resonateavl.com/setup.html#sessionbuilder"
 }
